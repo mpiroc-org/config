@@ -1,0 +1,24 @@
+{
+  "name": "@mpiroc-org/api-extractor-config",
+  "version": "0.0.5",
+  "description": "Package containing configuration files used by api-extractor",
+  "keywords": [],
+  "homepage": "https://github.com/mpiroc-org/config#readme",
+  "bugs": "https://github.com/mpiroc-org/config/issues",
+  "license": "UNLICENSED",
+  "author": "Matthew Pirocchi <matthew.pirocchi@gmail.com>",
+  "contributors": [],
+  "repository": "github:mpiroc-org/config",
+  "scripts": {
+    "build": "echo \"nothing to do\""
+  },
+  "engines": {
+    "node": "^12.13.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "peerDependencies": {
+    "@microsoft/api-extractor": "^7.7.8"
+  }
+}

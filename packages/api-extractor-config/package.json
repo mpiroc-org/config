@@ -1,6 +1,6 @@
 {
   "name": "@mpiroc-org/api-extractor-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Package containing configuration files used by api-extractor",
   "keywords": [],
   "homepage": "https://github.com/mpiroc-org/config#readme",

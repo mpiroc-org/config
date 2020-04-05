@@ -2,6 +2,18 @@
   "name": "@mpiroc-org/ts-config",
   "entries": [
     {
+      "version": "0.0.6",
+      "tag": "@mpiroc-org/ts-config_v0.0.6",
+      "date": "Sun, 05 Apr 2020 22:08:40 GMT",
+      "comments": {
+        "none": [
+          {
+            "comment": "Populate files property"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.5",
       "tag": "@mpiroc-org/ts-config_v0.0.5",
       "date": "Mon, 02 Mar 2020 22:38:34 GMT",

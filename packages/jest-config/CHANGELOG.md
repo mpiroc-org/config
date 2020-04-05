@@ -1,6 +1,13 @@
 # Change Log - @mpiroc-org/jest-config
 
-This log was last generated on Mon, 02 Mar 2020 22:38:34 GMT and should not be manually modified.
+This log was last generated on Sun, 05 Apr 2020 22:08:40 GMT and should not be manually modified.
+
+## 0.0.6
+Sun, 05 Apr 2020 22:08:40 GMT
+
+### Updates
+
+- Populate files property
 
 ## 0.0.5
 Mon, 02 Mar 2020 22:38:34 GMT

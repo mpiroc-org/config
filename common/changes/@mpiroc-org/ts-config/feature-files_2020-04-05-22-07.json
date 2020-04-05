@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@mpiroc-org/ts-config",
+      "comment": "Populate files property",
+      "type": "none"
+    }
+  ],
+  "packageName": "@mpiroc-org/ts-config",
+  "email": "matthew.pirocchi@gmail.com"
+}

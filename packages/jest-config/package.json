@@ -9,6 +9,9 @@
     "author": "Matthew Pirocchi <matthew.pirocchi@gmail.com>",
     "contributors": [],
     "repository": "github:mpiroc-org/config",
+    "files": [
+        "jest-preset.json"
+    ],
     "scripts": {
         "build": "echo \"nothing to do\""
     },

@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@mpiroc-org/api-extractor-config",
+      "comment": "Populate files property of package.json",
+      "type": "none"
+    }
+  ],
+  "packageName": "@mpiroc-org/api-extractor-config",
+  "email": "matthew.pirocchi@gmail.com"
+}

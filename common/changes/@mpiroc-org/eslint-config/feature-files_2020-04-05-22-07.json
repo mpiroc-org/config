@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@mpiroc-org/eslint-config",
+      "comment": "Populate files property",
+      "type": "none"
+    }
+  ],
+  "packageName": "@mpiroc-org/eslint-config",
+  "email": "matthew.pirocchi@gmail.com"
+}

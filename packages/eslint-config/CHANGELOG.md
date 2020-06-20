@@ -1,6 +1,11 @@
 # Change Log - @mpiroc-org/eslint-config
 
-This log was last generated on Sun, 05 Apr 2020 22:08:40 GMT and should not be manually modified.
+This log was last generated on Sat, 20 Jun 2020 21:19:14 GMT and should not be manually modified.
+
+## 0.0.7
+Sat, 20 Jun 2020 21:19:14 GMT
+
+*Version update only*
 
 ## 0.0.6
 Sun, 05 Apr 2020 22:08:40 GMT

@@ -1,6 +1,6 @@
 {
   "name": "@mpiroc-org/eslint-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Package containing configuration files used by multiple packages",
   "keywords": [],
   "homepage": "https://github.com/mpiroc-org/config#readme",
@@ -37,7 +37,7 @@
     "eslint": "^6.8.0"
   },
   "devDependencies": {
-    "@mpiroc-org/ts-config": "^0.0.7",
+    "@mpiroc-org/ts-config": "^0.0.8",
     "@types/node": "^12.12.8",
     "@typescript-eslint/parser": "^2.21.0",
     "@typescript-eslint/typescript-estree": "^2.21.0",

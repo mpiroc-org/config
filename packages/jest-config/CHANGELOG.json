@@ -2,6 +2,12 @@
   "name": "@mpiroc-org/jest-config",
   "entries": [
     {
+      "version": "0.0.8",
+      "tag": "@mpiroc-org/jest-config_v0.0.8",
+      "date": "Sat, 20 Jun 2020 21:20:32 GMT",
+      "comments": {}
+    },
+    {
       "version": "0.0.7",
       "tag": "@mpiroc-org/jest-config_v0.0.7",
       "date": "Sat, 20 Jun 2020 21:19:14 GMT",

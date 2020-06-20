@@ -25,6 +25,7 @@ phases:
     commands:
       - git status
       - node common/scripts/install-run-rush.js test
+      - common/temp/pnpm-local/node_modules/.bin/pnpm config list
       - |
         if [ $CODEBUILD_WEBHOOK_TRIGGER = "branch/master" ]; then
           node common/scripts/install-run-rush.js publish --include-all --publish --add-commit-details --apply --registry https://npm.pkg.github.com/$GITHUB_SCOPE

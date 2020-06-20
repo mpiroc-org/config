@@ -2,6 +2,18 @@
   "name": "@mpiroc-org/api-extractor-config",
   "entries": [
     {
+      "version": "0.0.9",
+      "tag": "@mpiroc-org/api-extractor-config_v0.0.9",
+      "date": "Sat, 20 Jun 2020 21:31:41 GMT",
+      "comments": {
+        "none": [
+          {
+            "comment": "Updated description"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.8",
       "tag": "@mpiroc-org/api-extractor-config_v0.0.8",
       "date": "Sat, 20 Jun 2020 21:20:32 GMT",

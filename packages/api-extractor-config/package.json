@@ -1,7 +1,7 @@
 {
   "name": "@mpiroc-org/api-extractor-config",
   "version": "0.0.8",
-  "description": "Package containing configuration files used by api-extractor",
+  "description": "Standard @microsoft/api-extractor configuration for @mpiroc-org",
   "keywords": [],
   "homepage": "https://github.com/mpiroc-org/config#readme",
   "bugs": "https://github.com/mpiroc-org/config/issues",

@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@mpiroc-org/jest-config",
+      "comment": "Updated description",
+      "type": "none"
+    }
+  ],
+  "packageName": "@mpiroc-org/jest-config",
+  "email": "matthew.pirocchi@gmail.com"
+}

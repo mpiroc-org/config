@@ -1,7 +1,7 @@
 {
   "name": "@mpiroc-org/ts-config",
   "version": "0.0.8",
-  "description": "Package containing typescript configuration files used by multiple packages",
+  "description": "Standard typescript configuration for @mpiroc-org.",
   "keywords": [],
   "homepage": "https://github.com/mpiroc-org/config#readme",
   "bugs": "https://github.com/mpiroc-org/config/issues",

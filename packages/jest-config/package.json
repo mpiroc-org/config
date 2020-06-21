@@ -1,6 +1,6 @@
 {
     "name": "@mpiroc-org/jest-config",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "description": "Standard Jest configuration for @mpiroc-org",
     "keywords": [],
     "homepage": "https://github.com/mpiroc-org/config#readme",

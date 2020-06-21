@@ -1,1 +1,4 @@
+@mpiroc-org:registry=https://npm.pkg.github.com/
+registry=https://registry.npmjs.org/
+always-auth=false
 git-checks=false
